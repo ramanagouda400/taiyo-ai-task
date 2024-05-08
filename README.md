@@ -41,7 +41,7 @@ The COVID-19 data is fetched from the following APIs:
 ## Instructions 🚀
 1. **Clone the Repository**: Start by cloning the repository to your local machine using the following command:
 ```
-git clone https://github.com/ramanagouda400/taiyoai_project.git
+git clone https://github.com/ramanagouda400/taiyo-ai-task.git
 ```
 2. **Navigate to the Project Directory**: Move into the project directory using the following command:
 ```
