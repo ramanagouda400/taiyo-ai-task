@@ -40,11 +40,11 @@ The COVID-19 data is fetched from the following APIs:
 ## Instructions 🚀
 1. **Clone the Repository**: Start by cloning the repository to your local machine using the following command:
 ```
-git clone https://github.com/vikas-parmar/ReactTS_Contact_Visuals.git
+git clone https://github.com/ramanagouda400/taiyoai_project.git
 ```
 2. **Navigate to the Project Directory**: Move into the project directory using the following command:
 ```
-cd ReactTS_Contact_Visuals
+cd taiyoai_project
 ```
 3. **Install Dependencies**: Install the necessary dependencies by running:
 ```
