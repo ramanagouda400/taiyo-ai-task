@@ -45,7 +45,7 @@ git clone https://github.com/ramanagouda400/taiyo-ai-task.git
 ```
 2. **Navigate to the Project Directory**: Move into the project directory using the following command:
 ```
-cd taiyoai_project
+cd taiyo-ai-task
 ```
 3. **Install Dependencies**: Install the necessary dependencies by running:
 ```
